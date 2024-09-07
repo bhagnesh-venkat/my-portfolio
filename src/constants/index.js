@@ -22,28 +22,28 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "React Social Media Application",
-    image: "project1",
+    image: project1,
     description:
       "A full-featured social media platform built using the MERN stack, allowing users to interact in real-time through posts, comments, and likes. Integrated secure authentication and dynamic user interface for seamless experience.",
     technologies: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Axios"]
   },
   {
     title: "E-Commerce Website",
-    image: "project2",
+    image: project2,
     description:
       "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
     technologies: ["HTML", "CSS", "React", "Node.js", "MySql"],
   },
   {
     title: "Portfolio Website",
-    image: "project3",
+    image: project3,
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Tailwind"],
   },
   {
     title: "Anomaly Detection System",
-    image: "project4",
+    image: project4,
     description:
       "Developed an anomaly detection system using Z-score analysis to monitor fridge door activity without additional hardware. The system identifies unusual patterns when the door is opened, ensuring reliable performance with minimal setup.",
     technologies: ["Python", "Z-score analysis", "Data Science", "Machine Learning"]
